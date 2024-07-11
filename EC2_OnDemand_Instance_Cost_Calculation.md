@@ -1,5 +1,8 @@
-
 # AWS EC2 On-Demand Instance Cost Calculation
+
+
+
+
 
 The cost of an on-demand EC2 instance on AWS depends on the instance type, region, and usage. Below is a general idea of how you can calculate it.
 
